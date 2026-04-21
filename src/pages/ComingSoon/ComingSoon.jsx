@@ -172,9 +172,9 @@ const templateParams = {
         {/* Contact line */}
         <p className="cs-contact fade-up delay-5">
           Questions ? Reach us at&nbsp;
-          <a href="mailto:hello@glowxautospa.com">glowxautospa@gmail.com</a>
+          <a href="mailto:glowxautospa@gmail.com">glowxautospa@gmail.com</a>
           &nbsp;·&nbsp;
-          <a href="tel:+18001234567">+91 8078484945</a>
+          <a href="tel:+918078484945">+91 8078484945</a>
         </p>
 
       </div>

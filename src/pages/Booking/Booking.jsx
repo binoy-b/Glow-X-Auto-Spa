@@ -217,8 +217,8 @@ export default function Booking() {
             </div>
             <div className="booking-info card">
               <h4>📞 Quick Contact</h4>
-              <p>+1 (800) GLOW-XXX</p>
-              <p style={{marginTop:'6px'}}>hello@glowxautospa.com</p>
+              <p>+91 8078484945</p>
+              <p style={{marginTop:'6px'}}>glowxautospa@gmail.com</p>
             </div>
             <div className="booking-note">
               <span className="label">Note</span>
