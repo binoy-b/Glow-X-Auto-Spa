@@ -1,4 +1,4 @@
-import logoImg from "../../assets/logo.png";
+import logoImg from "../../assets/Logo.png";
 import "../Footer/Footer.css";
 
 export default function Footer({ navigate }) {

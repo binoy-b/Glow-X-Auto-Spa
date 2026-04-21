@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import emailjs from "emailjs-com";
-import logoImg from "../../assets/logo.png";
+import logoImg from "../../assets/Logo.png";
 import "./ComingSoon.css";
 
 // Target launch date

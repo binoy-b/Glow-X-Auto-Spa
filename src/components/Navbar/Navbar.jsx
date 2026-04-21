@@ -1,5 +1,5 @@
 import { useState } from "react";
-import logoImg from "../../assets/logo.png";
+import logoImg from "../../assets/Logo.png";
 import "../Navbar/Navbar.css";
 
 const links = [
