@@ -91,7 +91,7 @@ const templateParams = {
         {/* Heading */}
         <h1 className="cs-title fade-up delay-2">
           WE'RE<br />
-          <span className="cs-accent">REVAMPING</span><br />
+          <span className="cs-accent">UNVEILING</span><br />
           OUR LAUNCH
         </h1>
 
