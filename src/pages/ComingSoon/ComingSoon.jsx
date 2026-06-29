@@ -4,7 +4,7 @@ import logoImg from "../../assets/Logo.png";
 import "./ComingSoon.css";
 
 // Target launch date
-const LAUNCH_DATE = new Date("2026-06-30T00:00:00Z");
+const LAUNCH_DATE = new Date("2026-08-31T00:00:00Z");
  
 function getTimeLeft(target) {
   const diff = target.getTime() - Date.now();
